@@ -1,7 +1,5 @@
-nclude <stdio.h>
-
-
-
+#!/bin/bash
+include <stdio.h>
 /**
  *
  *  * main - Entry point
@@ -12,12 +10,4 @@ nclude <stdio.h>
  *
  *     */
 
-int main(void)
-
-{
-
-		printf("Holberton School");
-
-			return (0);
-
-}
+int main(void){printf("Holberton School");return (0);}
