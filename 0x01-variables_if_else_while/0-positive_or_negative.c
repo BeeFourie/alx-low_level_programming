@@ -4,7 +4,7 @@ int main()
 {
 	    double num;
 
-	        printf("(fopen,"n")");
+	        printf("n");
 
 		    scanf("%lf", &num);
 
