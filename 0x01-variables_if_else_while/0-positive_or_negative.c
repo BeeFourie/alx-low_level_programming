@@ -3,7 +3,7 @@
 int main() {
 	    double num;
 
-	        printf($RANDOM);
+	        printf("Next()");
 
 		    scanf("%lf", &num);
 
