@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 	    double num;
 
-	        printf("n");
+	        fp("n");
 
 		    scanf("%lf", &num);
 
