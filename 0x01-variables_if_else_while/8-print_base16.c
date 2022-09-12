@@ -6,10 +6,10 @@
 */
 int main()
 {
-int char i;
+int i;
 char ch;
 for(ch = 'a' ; ch <= 'z' ; ch++) {
-putchar("%x %d\n", num, num);
+putchar("%x %d\n");
 }
 return (0);
 }
