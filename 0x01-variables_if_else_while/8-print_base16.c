@@ -4,11 +4,13 @@
 * Description: 'program that prints all the numbers of base 16 in lowercase'
 *Return: Always 0 (Success)
 */
-int main(void)
+int main()
 {
 char i;
-putchar("\n\nLowercase Base 16:\n");
-for(i='a'; i<='z'; i++)
-putchar("%c ",i);
-return 0;
+scanf("%x", &num);
+char ch;
+for(ch = 'a' ; ch <= 'z' ; ch++) {
+putchar("%x",ch);
+}
+return (0);
 }
