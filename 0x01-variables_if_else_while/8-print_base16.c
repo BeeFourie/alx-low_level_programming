@@ -6,11 +6,11 @@
 */
 int main()
 {
-char i;
-scanf("%x", &num);
+int char i;
+scanf("%x");
 char ch;
 for(ch = 'a' ; ch <= 'z' ; ch++) {
-putchar("%x",ch);
+putchar("%x");
 }
 return (0);
 }
