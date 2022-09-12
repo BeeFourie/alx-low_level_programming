@@ -2,8 +2,8 @@
 int main(void)
 {
 char i;
-printf("\n\nLowercase Base 16:\n");
+putchar("\n\nLowercase Base 16:\n");
 for(i='a'; i<='z'; i++)
-printf("%c ",i);
+putchar("%c ",i);
 return 0;
 }
