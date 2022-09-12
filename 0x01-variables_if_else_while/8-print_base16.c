@@ -7,10 +7,9 @@
 int main()
 {
 int char i;
-scanf("%x");
 char ch;
 for(ch = 'a' ; ch <= 'z' ; ch++) {
-putchar("%x");
+putchar("%x %d\n", num, num);
 }
 return (0);
 }
