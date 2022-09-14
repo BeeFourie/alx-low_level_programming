@@ -17,8 +17,9 @@
  *       */
 
 
-int largest_number(int a, int b, int c)
+int largest_number(a, b, c)
 {
+	scanf("%d %d %d", &a, &b, &c);
 int largest;
 if (a > b && b > c)
 {
@@ -32,5 +33,5 @@ else
 {
 largest = c;
 }
-return (largest);
+return (0);
 }
