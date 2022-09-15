@@ -12,4 +12,6 @@ int _isupper(int c);
 scanf("%c", &c);
 
 if(isupper(ch))
+
+return (0);
 }
