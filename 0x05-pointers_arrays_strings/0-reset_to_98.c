@@ -1,2 +1,2 @@
 #include <stdio.h>
-void reset_to_98(int, 98);
+void reset_to_98(int, "98");
