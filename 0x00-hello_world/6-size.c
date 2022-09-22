@@ -10,6 +10,6 @@ printf("Size of an int: %ld bytes\n",sizeof(integerType));
 printf("Size of a long int: %ld bytes\n",sizeof(integerType));
 printf("Size of a long long int: %ld bytes\n",sizeof(doubleType));
 printf("Size of a float: %ld bytes\n",sizeof(floatType));
-printf(stderr, "try again?\n");
+fprintf(stderr, "try again?\n");
 return(0);
 }
